@@ -46,10 +46,11 @@ border: 1px solid rgba(225,225,225,0.2);
     height: 36px;
     object-fit: contain;
 }
+
 .popular-foods__filter-btn.active{
     background-color: white;
-    color: var(--primary-color);
-}
+    color: var(--primary-color);}
+
 .popular-foods__filter-btn:hover{
     background-color: white;
     color: var(--primary-color);
